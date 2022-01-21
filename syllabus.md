@@ -2,7 +2,7 @@
 title: Syllabus
 layout: post
 readtime: true
-date: 
+date: Thu Jan 20 22:31:16 2022 
 ---
 
 
@@ -67,4 +67,12 @@ untrusted network is the main topic of this class.
 There is no required textbook, we will heavily build on research papers and
 in-class discussions.  However, I have a few recommended readings:
 
-- [](https://dl.acm.org/doi/pdf/10.1145/3417988?casa_token=QX4l42HmCnQAAAAA:I6tqA4MwoDt0_dqROuUBh7z-uYNYTkkGMcdyIPNPmaVoRyAeziusxywD2lMObUNdp1WaFrfUxgw)
+- [Zave, Pamela, and Jennifer Rexford. "Patterns and Interactions in Network
+Security." ACM Computing Surveys (CSUR) 53.6 (2020): 1-37.](https://dl.acm.org/doi/pdf/10.1145/3417988?casa_token=QX4l42HmCnQAAAAA:I6tqA4MwoDt0_dqROuUBh7z-uYNYTkkGMcdyIPNPmaVoRyAeziusxywD2lMObUNdp1WaFrfUxgw)
+- [Perlman, Radia, Charlie Kaufman, and Mike Speciner. Network security: private
+communication in a public world. Pearson Education,
+2002.](https://www.pearson.com/us/higher-education/program/Kaufman-Network-Security-Private-Communication-in-a-Public-World-2nd-Edition/PGM188104.html)
+- [Stallings, William. Network Security Essentials: Applications and Standards,
+6/e. Pearson Education,  2017](https://www.pearson.com/us/higher-education/program/Stallings-Network-Security-Essentials-Applications-and-Standards-6th-Edition/PGM337626.html)
+- [Forshaw, James. Attacking network protocols: a hacker's guide to capture,
+analysis, and exploitation. No Starch Press, 2017.](https://www.google.com/books/edition/Attacking_Network_Protocols/EVv6DwAAQBAJ?hl=en&gbpv=0)
