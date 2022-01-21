@@ -2,7 +2,7 @@
 title: Syllabus
 layout: post
 readtime: true
-date: Mon Aug 30 18:32:47 2021
+date: 
 ---
 
 
@@ -12,62 +12,59 @@ date: Mon Aug 30 18:32:47 2021
   <div style="text-align:right;">Eugene H. Spafford </div>
 
 
-Was Professor Spafford justified in his approach? Are we doomed to working with
-systems with little to no security? Is there really no way to design a secure
-system?
+# Course Description
 
-In this course, you will have an opportunity to explore some of the exciting
-research being done in the field of systems security. In the process, you will
-develop considerable insights into the current state of systems security by
-reading and presenting multiple research papers. You may or may not become a
-researcher, but you may some day have to make a decision about the security of a
-system that you have built or designed. This course will help give you the
-foundation to make those decisions wisely.
+This course serves as an introduction to the basic concepts of network security
+with an emphasis on practical and research skills. Topics include denial of
+service attacks and defenses, authentication, key distribution, message
+authentication, access control, protocol security, Tor, and security standards.
+The course will provide a review of basic network design, the end-to-end
+principle, and basic cryptography. Prerequisites: CSSE 230. 
 
-## Prerequisites
-None, we will cover everything during our discussion time.
+# Informal Description
 
-## Course Location
-TBA.
+It was a dark and stormy night, Heimdallr, the guardian of the gods, kept a
+watchful eye on the Bifrost bridge. “Could it be tonight? Would Loki do it? I
+can feel it coming. Ragnarok”, said Heimdallr to himself. Thoughts of carnage
+and destruction occupied his ever-observing head. He had a disturbing feeling in
+his gut that something was going to happen tonight, and he needed to let the
+gods know about it.
 
-## Grading
+And finally, there it was, he could see it on the horizon: the giant head of the
+wolf, Fenrir, alongside his father, the deceiver Loki. Hel, the goddess of the
+underworld, can be seen leading the army of the dead. “It is time, I must send a
+message to Odin and the gods to prepare for the final battle”, said Heimdallr. 
 
-| Item                  | Weight |
-| :-------------------- | :----- |
-| Paper Presentation    | 50%    |
-| Paper Reviews         | 40%    |
-| Attendance            | 10%    |
+As he was typing the message on his iPhone 13Pro, a thought popped into his
+head: “How can I tell Odin without anyone intercepting the message”? Loki was
+known to have hired a band of hackers to support his war efforts. Furthermore,
+how can Odin know that it was Heimdallr who wrote the message?  How could he
+stop Loki’s script kiddies from impersonating him in an email or a message? How
+can he make sure that the tunnel to Asgard was safe and not under attack? A
+moment of panic took over Heimdallr, **how can he send sensitive information on
+an untrusted network?**
 
-## Paper Reviews
+In this course, we will set up to help the Norse gods by exploring how Heimdallr
+can send a private message, in a world that is increasingly public and under
+attack. We will take a look at this problem from two perspectives: (1) Loki’s
+perspective, who is trying to intercept and exploit any messages sent to the
+Gods, and (2) Heimdallr and the gods’ perspective, who are trying to secure
+their messages from Loki’s army. 
 
-Each week, you will read and review one paper that has been previously published
-in a major systems and networking security conference. I would like you to write
-each review championing the paper and trying to convince me of its merit. You
-should frame any criticisms as suggested improvements for the paper that might
-lead to a better study/analysis/design. 
+Just like Heimdallr (who rocks an Instagram profile with thousands of followers)
+and the gods, we find ourselves today in a society that increasingly puts trust
+in the Internet, a network that is not worthy of that trust. The Internet was
+designed with the end-to-end principle in mind; push the complexity into the
+endpoints as much as possible, keeping the intermediary nodes (core routers,
+switches, etc.) as simple as possible. This is great and all, but it renders the
+medium of communication unreliable and untrustworthy. Malicious actors can
+intercept traffic, change network packets, and masquerade as other users or as
+Internet authorities. The process of ensuring private communication over an
+untrusted network is the main topic of this class. 
 
-Your review needs to be at least three paragraphs long, where the first one is
-summary of the paper's main contributions. The second paragraph is you arguments
-for the merit of the paper, while the last paragraph is dedicated for further
-improvements of shortcomings. 
+# Textbook
 
-## Paper Presentations
+There is no required textbook, we will heavily build on research papers and
+in-class discussions.  However, I have a few recommended readings:
 
-Each student will be asked to present at least one paper throughout the quarter. 
-
-
-
-## Collaboration, Cheating and Professional Behavior
-
-Collaboration is encouraged on reviews and presentations. 
-When you collaborate, you must properly credit your collaborators and clearly
-indicate the extent of the collaboration. Working out a solution as a group is
-acceptable collaboration. Each individual is responsible for understanding the
-entire solution.  Copying is not collaboration.  Failure to properly acknowledge
-collaboration can be considered cheating.
-
-Students are expected to behave professionally. A lack of professional behavior
-in a student’s interactions within a team, with an instructor, teaching
-assistants or during in-class activities can result in a penalty grade.
-Depending on the nature and the egregiousness of the behavior, the penalty grade
-might be a reduction in letter grade or an F in the class.
+- [](https://dl.acm.org/doi/pdf/10.1145/3417988?casa_token=QX4l42HmCnQAAAAA:I6tqA4MwoDt0_dqROuUBh7z-uYNYTkkGMcdyIPNPmaVoRyAeziusxywD2lMObUNdp1WaFrfUxgw)

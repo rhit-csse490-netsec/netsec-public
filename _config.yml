@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: CSSE 290-04
+title: CSSE 490-01
 
 # Your name to show in the footer
 author: Mohammad A. Noureddine
@@ -14,7 +14,7 @@ author: Mohammad A. Noureddine
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Moodle: "https://moodle.rose-hulman.edu/course/view.php?id=85566"
+  Moodle: "https://moodle.rose-hulman.edu/course/view.php?id=89980"
   Syllabus: "syllabus"
   Schedule: "schedule"
   # Resources:
