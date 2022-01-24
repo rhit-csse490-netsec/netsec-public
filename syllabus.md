@@ -98,14 +98,14 @@ your chances of success.
 
 I am more than happy to have you stop by my office, ask questions, and have
 discussions. If my office door is open, feel free to walk in and start a
-discussion. Topics I enjoy are: Norse mythology (duh!), computer security,
+conversation. Topics I enjoy are: Norse mythology (duh!), computer security,
 philosophy, economics and econmic equality, and the NBA. I also make a kickass
 cup of coffee using high quality coffee beans, feel free to ask me more about
 that. 
 
 When my office door is closed, I am generally prepping for class or in a
 meeting. Feel free to knock on my door and we can quickly chat about possible
-meetings times. 
+meeting times. 
 
 If you feel you'd like to schedule an appointment with me, you can use [this
 calendly link](https://calendly.com/mnoureddine/office-hours) to get on my
@@ -174,4 +174,17 @@ learning techniques to detect and defend against maclicious attacks).
 | Project               | 40%    |
 | Participation         | 5%     |
 
+# A statement on mental health
 
+I know that as students, you are dealing with a lot of stress, often a lack of
+sleep, and sometimes social isolation (especially in the COVID times). It is
+easy to neglect your mental (and physical) health and lose yourself in the
+vortex of pressure. Spoken from experience, it is important for you to *make
+time* for yourself, both mentally and physically. Therefore, if at any point
+during the quarter, you feel that you are in need of help, please reach out to
+the [office of health
+services](https://www.rose-hulman.edu/campus-life/student-services/wellness-and-health-services/health-services/index.html)
+or [the student counseling
+center](https://www.rose-hulman.edu/campus-life/student-services/wellness-and-health-services/counseling-services/index.html).
+Also, if you feel comfortable, you can reach out to me so I can help you
+devise a plan to tackle your coursework for CSSE 332. 
