@@ -187,4 +187,4 @@ services](https://www.rose-hulman.edu/campus-life/student-services/wellness-and-
 or [the student counseling
 center](https://www.rose-hulman.edu/campus-life/student-services/wellness-and-health-services/counseling-services/index.html).
 Also, if you feel comfortable, you can reach out to me so I can help you
-devise a plan to tackle your coursework for CSSE 332. 
+devise a plan to tackle your coursework for the class.
