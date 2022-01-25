@@ -113,7 +113,7 @@ calendar; you'll have a reserved slot on my calendar.
 
 # Textbook
 
-This is no required textbook for this class, I have found the eventually I end
+There is no required textbook for this class, I have found that eventually I end
 up creating content for class that is based on an amalgamation of content from
 textbooks, papers, YouTube videos, blog posts, and so on. I will try as much as
 possible to make the course self-contained when it comes to the material that
@@ -121,9 +121,11 @@ are publicly available.
 
 ## Recommended textbook
 
+<!-- TODO: Add an image of the textbook here! -->
+
 However, there must be a resource that shines away from the competition; in this
 case, it is "Internet Security: A Hands-on Approach" by Wengliang Du. This is a
-great textbook that covers must of what we will go through in this class in a
+great textbook that covers most of what we will go through in this class in a
 way that covers both theory and practice, so I recommend that you purchase a
 copy of this book and keep it with you for later-on reference in your career.
 
