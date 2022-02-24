@@ -77,6 +77,20 @@ password-less access to your repositories.
 Create a private repository on GitHub that you will be using to develop the labs
 in this course. Name the repository something catchy, like `sexy-daemon` or
 whatever you like. Choose `python` as the default language (so that you get the
-right `.gitignore` file) and then check the box that creates a REDME file in
+right `.gitignore` file) and then check the box that creates a `README` file in
 your repository. 
+
+In your Linux terminal, clone the repository using
+```shell
+git clone <ssh_url_to_your_repo_here>
+```
+and then navigate to the cloned folder using `cd`. From there, open an instance
+of Virtual Studio Code using
+```shell
+code .
+```
+This will launch an instance of VSCode that is configured to run from your class
+repository. This will be where you will develop code for the most part in this
+class. We will be mainly using Python but we will also use C on occasions. 
+
 
