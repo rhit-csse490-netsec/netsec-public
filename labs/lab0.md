@@ -93,4 +93,72 @@ This will launch an instance of VSCode that is configured to run from your class
 repository. This will be where you will develop code for the most part in this
 class. We will be mainly using Python but we will also use C on occasions. 
 
+# Step 6: Create your DETER account and add your keys to it
 
+At this point, you should received an email from the DETER testbed the gives
+your username and a link to set your password. Make sure to fill out all the
+information on the DETER sign up page since we will need that information in
+case we need to perform some troubleshooting for your account. 
+
+Next, let's open up the directory where your public key (`id_rsa.pub`). Using
+your Linux terminal (on WSL2), issue the following command
+```shell
+cd ~/.ssh/
+```
+and then do 
+```shell
+explorer.exe .
+```
+Note that this only works if you are using WSL2 on a Windows machine, if you are
+on MacOS, then you can use 
+```shell
+open .
+```
+
+You will end up with a file explorer window that points to your local `.ssh`
+directory. In that directory, you will find two files: `id_rsa` and
+`id_rsa.pub`. We are interested in the **public** key (i.e., `id_rsa.pub`) as
+the private key must remain secret and should never be shared with anyone else. 
+Copy the `id_rsa.pub` file to your Desktop and move on to the next step below. 
+
+Sign in to DETER with your updated account at [this
+link](https://www.isi.deterlab.net/index.php) and then navigate to the `Profile`
+tab under the welcome page. On the left hand side, you will see an `Options`
+menu with an entry for `Edit SSH Keys`. Using the `Browse` button, navigate to
+your Desktop and select the `id_rsa.pub` file that we have just copied to the
+Desktop. Enter your password and click on `Add New Keys`. If all goes well, you
+should see your public key appear in the text box at the top of the page. 
+
+# Step 7: Test your DETER connection
+
+To test your access to DETER, let's try to `ssh` into the users server on the
+testbed, from your Linux shell
+```shell
+ssh <username>@users.deterlab.net
+```
+where `<username>` is the username assigned to you from the DETER email you
+received.  If all goes well, you should be able to log in to the server and have
+a shell to run your commands. 
+
+## Setting ssh config file
+
+To save you the trouble of typing the full URL when logging into DETER, let's
+create a `ssh` configuration file. From you Linux terminal, issue the following
+command
+```shell
+touch ~/.ssh/config
+```
+and then using your favorite editor (you can use `code ~/.ssh/config` to use
+VSCode), edit the file to look something like the following:
+```
+Host deter
+  HostName users.deterlab.net
+  User <place_your_deter_username_here>
+```
+Save the file and then from your terminal, try to login to DETER again, but this
+time using only
+```shell
+ssh deter
+```
+You should be able to login now and use the DETER testbed for our experiments in
+this class. 
