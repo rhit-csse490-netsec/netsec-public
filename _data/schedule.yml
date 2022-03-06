@@ -5,8 +5,7 @@
     - Introduction
   materials: 
   other:
-    - Slides [<a href="{{ site.baseurl }}/slides/01_introduction.pptx">pptx</a>,
-      <a href="{{ site.baseurl }}/slides/01_introduction.pdf">pdf</a>]
+    - <a href="{{ site.baseurl }}/slides/01_introduction.pdf">Slides</a>
 # 2:
 #   reading:
 #   topics:

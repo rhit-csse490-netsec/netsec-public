@@ -37,7 +37,7 @@ title: Class Schedule
 </ul>{:/}
 </td>
 <td markdown="span">
-Slides [<a href="{{ site.baseurl }}/slides/01_introduction.pptx">pptx</a>, <a href="{{ site.baseurl }}/slides/01_introduction.pdf">pdf</a>]</td>
+<a href="{{ site.baseurl }}/slides/01_introduction.pdf">Slides</a></td>
 </tr>
 <tr>
 <td markdown="span">
