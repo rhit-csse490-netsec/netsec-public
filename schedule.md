@@ -26,12 +26,18 @@ title: Class Schedule
 <td rowspan="5" markdown="span" style="font-size:xx-large;"><a name="w1">1</a></td>
 <td markdown="span">
 1 <br/> Mon, Mar 07 2022</td>
-<td markdown="span">
+<td markdown="span" style="text-align:left">
+{::nomarkdown}<ul style="margin:0;padding:.5rem">
+<li> Sections 1 and 2 of <a href="https://arxiv.org/pdf/1912.13371.pdf">Patterns and Interactions in Network Security</a> </li>
+</ul>{:/}
+</td>
+<td markdown="span" style="text-align:left">
+{::nomarkdown}<ul style="margin:0;padding:.5rem">
+<li> Introduction </li>
+</ul>{:/}
 </td>
 <td markdown="span">
-</td>
-<td markdown="span">
-</td>
+Slides [<a href="{{ site.baseurl }}/slides/01_introduction.pptx">pptx</a>, <a href="{{ site.baseurl }}/slides/01_introduction.pdf">pdf</a>]</td>
 </tr>
 <tr>
 <td markdown="span">

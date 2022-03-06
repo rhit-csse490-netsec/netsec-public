@@ -1,8 +1,12 @@
 1:
   reading:
+    - Sections 1 and 2 of <a href="https://arxiv.org/pdf/1912.13371.pdf">Patterns and Interactions in Network Security</a>
   topics:
+    - Introduction
   materials: 
   other:
+    - Slides [<a href="{{ site.baseurl }}/slides/01_introduction.pptx">pptx</a>,
+      <a href="{{ site.baseurl }}/slides/01_introduction.pdf">pdf</a>]
 # 2:
 #   reading:
 #   topics:
