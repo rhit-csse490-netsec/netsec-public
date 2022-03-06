@@ -23,7 +23,6 @@ def find_sources_root(tree_root='csse332'):
     logging.info("Root of source tree is {}".format(os.path.join(*curr_dir)))
     return os.path.join(*curr_dir)
 
-
 def parse_time_str(time_string):
     """
     Parse a time string and return a datetime object.
@@ -52,7 +51,6 @@ def parse_time_str(time_string):
 
     return ret_obj
 
-
 def determine_starting_week(schedule):
     """
     Determine the starting week of the term.
@@ -67,11 +65,10 @@ def determine_starting_week(schedule):
     start_time = parse_time_str(starting_session)
     if not start_time:
         raise RuntimeError("Could not find starting week number")
-    if start_time.day >= 2:
+    if start_time.weekday() >= 2:
         return 0
     else:
         return 1
-
 
 def count_weeks(schedule, starting_week):
     """
@@ -106,7 +103,6 @@ def count_weeks(schedule, starting_week):
 
     return week_counter
 
-
 def write_schedule_header(f):
     """
     Write the header for the schedule in the markdown file.
@@ -132,7 +128,6 @@ title: Class Schedule
 <col width="25%" />
 </colgroup>"""
     f.write(header)
-
 
 def write_table_header(f):
     """
@@ -193,11 +188,8 @@ def start_column(f, options=None):
     else:
         f.write("<td markdown=\"span\">\n")
 
-
 def end_column(f):
     f.write("</td>\n")
-
-
 
 def write_table_body(f, schedule, num_of_sessions_per_week, classes):
     """
@@ -296,13 +288,13 @@ def write_table_body(f, schedule, num_of_sessions_per_week, classes):
                 if assignment_dir is not None and assignment_dir != "":
                     if assignment_grader is not None and assignment_grader != '':
                         assignment_grader = "<font color=\"#aaa\"> grader: @{} </font>".format(assignment_grader)
-                        f.write("<td markdown=\"span\" colspan=\"4\"> [{}]({{{{ site.baseurl }}}}/docs/{}) DUE {} {} {} </td>".format(
+                        f.write("<td markdown=\"span\" colspan=\"4\"> [{}]({{{{ site.baseurl }}}}/{}) DUE {} {} {} </td>".format(
                             assignment_name, assignment_dir,
                             assignment_date.strftime("%a, %b %d %Y %H:%M"),
                             assignment_box, assignment_grader
                         ))
                     else:
-                        f.write("<td markdown=\"span\" colspan=\"4\"> [{}]({{{{ site.baseurl }}}}/docs/{}) DUE {} {}</td>".format(
+                        f.write("<td markdown=\"span\" colspan=\"4\"> [{}]({{{{ site.baseurl }}}}/{}) DUE {} {}</td>".format(
                             assignment_name, assignment_dir,
                             assignment_date.strftime("%a, %b %d %Y %H:%M"), assignment_box
                         ))
@@ -330,7 +322,7 @@ def write_table_body(f, schedule, num_of_sessions_per_week, classes):
 if __name__ == '__main__':
     logging.basicConfig(level=logging.INFO)
 
-    source_root = find_sources_root()
+    source_root = find_sources_root('netsec-public')
     date_convert_path = os.path.join(source_root, '_data', 'date_convert.yml')
     assignments_path = os.path.join(source_root, '_data', 'assignments.csv')
     schedule_path = os.path.join(source_root, '_data', 'schedule.yml')

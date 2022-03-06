@@ -1,22 +1,13 @@
 1:
   reading:
-    - <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/intro.pdf">Chapter 1</a>
-    - <a href="https://cacm.acm.org/magazines/2016/3/198874-lessons-learned-from-30-years-of-minix/fulltext"> Lessons Learned From 30 Years of Minix </a>
   topics:
-    - Introduction to OS
   materials: 
   other:
-    # - <a href="{{ site.baseurl }}/sessions/02_session2/"> Session Information </a>
-2:
-  reading:
-  topics:
-    - Void Pointers
-    - Malloc and Free
-    - Function Pointers
-
-  materials: 
-  other: 
-    # - <a href="{{ site.baseurl }}/sessions/01_session1/"> Session Information </a>
+# 2:
+#   reading:
+#   topics:
+#   materials: 
+#   other: 
 
 # 3:
 #   reading:

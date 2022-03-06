@@ -12,13 +12,13 @@ will making use of the DETER testbed, a computing facility for cyber-security
 research and development. On DETER, we will be able to run network security
 experiments without the risk of breaking out into the real world. 
 
-In this course, we will be developing networked security applications, which
+In this course, we will be developing network security applications, which
 comes with the unfortunate side effect that you will develop on your own
 machine, but test and execute things on one or more remote machines. Therefore,
 get ready to be comfortable with a command prompt, or actually a bunch of them
 open at the same time. In what follows, I will describe one possible
-developmental that you can use, but feel free to use whatever works best of you
-at the end. 
+developmental setup that you can use, but feel free to use whatever works best
+for you at the end. 
 
 # Step 1: Install WSL2 and Ubuntu-20.04 (or any other distro)
 
@@ -31,7 +31,7 @@ If you do not have WSL2 installed, then please follow the instructions in
 [this](https://www.omgubuntu.co.uk/how-to-install-wsl2-on-windows-10) post and
 make sure you have access to a Linux terminal window. You do not have to install
 Ubuntu, you can install any distribution of your liking (Kali Linux is a good
-one for penetration testing) as long as you know how to use and you are
+one for penetration testing) as long as you know how to use it and you are
 comfortable installing software and using the shell. 
 
 # Step 2: Install prerequisite software
@@ -95,12 +95,12 @@ class. We will be mainly using Python but we will also use C on occasions.
 
 # Step 6: Create your DETER account and add your keys to it
 
-At this point, you should received an email from the DETER testbed the gives
-your username and a link to set your password. Make sure to fill out all the
-information on the DETER sign up page since we will need that information in
-case we need to perform some troubleshooting for your account. 
+At this point, you should have received an email from the DETER testbed that
+gives you your username and a link to set your password. Make sure to fill out
+all the information on the DETER sign up page since we will need that
+information in case we need to perform some troubleshooting for your account. 
 
-Next, let's open up the directory where your public key (`id_rsa.pub`). Using
+Next, let's open up the directory where your public key (`id_rsa.pub`) is. Using
 your Linux terminal (on WSL2), issue the following command
 ```shell
 cd ~/.ssh/
@@ -160,5 +160,5 @@ time using only
 ```shell
 ssh deter
 ```
-You should be able to login now and use the DETER testbed for our experiments in
-this class. 
+You should be able to login now and use the DETER testbed for your experiments
+in this class. 
