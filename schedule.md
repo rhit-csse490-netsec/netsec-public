@@ -42,7 +42,15 @@ title: Class Schedule
 <tr>
 <td markdown="span">
 2 <br/> Tue, Mar 08 2022</td>
-<td markdown="span" colspan="3">N/A</td>
+<td markdown="span">
+</td>
+<td markdown="span" style="text-align:left">
+{::nomarkdown}<ul style="margin:0;padding:.5rem">
+<li> <b> Lab 0 </b> Development Setup </li>
+</ul>{:/}
+</td>
+<td markdown="span">
+<a href="{{ site.baseurl }}/labs/lab0">Lab instructions</a></td>
 </tr>
 <tr>
 <td markdown="span" colspan="4"> [Lab 0]({{ site.baseurl }}/labs/lab0) DUE Tue, Mar 08 2022 23:59 Submit to [Gradescope](https://www.gradescope.com/courses/375534)</td></tr>

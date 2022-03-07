@@ -6,11 +6,13 @@
   materials: 
   other:
     - <a href="{{ site.baseurl }}/slides/01_introduction.pdf">Slides</a>
-# 2:
-#   reading:
-#   topics:
-#   materials: 
-#   other: 
+2:
+  reading:
+  topics:
+    - <b> Lab 0 </b> Development Setup
+  materials: 
+  other: 
+    - <a href="{{ site.baseurl }}/labs/lab0">Lab instructions</a>
 
 # 3:
 #   reading:
