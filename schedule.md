@@ -57,7 +57,15 @@ title: Class Schedule
 <tr>
 <td markdown="span">
 3 <br/> Thu, Mar 10 2022</td>
-<td markdown="span" colspan="3">N/A</td>
+<td markdown="span">
+</td>
+<td markdown="span" style="text-align:left">
+{::nomarkdown}<ul style="margin:0;padding:.5rem">
+<li> Networking primer </li>
+</ul>{:/}
+</td>
+<td markdown="span">
+<a href="{{ site.baseurl }}/slides/03_networking_primer.pdf">Slides</a></td>
 </tr>
 <tr>
 <td markdown="span">

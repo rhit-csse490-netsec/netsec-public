@@ -14,6 +14,14 @@
   other: 
     - <a href="{{ site.baseurl }}/labs/lab0">Lab instructions</a>
 
+3:
+  reading:
+  topics:
+    - Networking primer
+  materials:
+  other:
+    - <a href="{{ site.baseurl }}/slides/03_networking_primer.pdf">Slides</a>
+
 # 3:
 #   reading:
 #   topics:
