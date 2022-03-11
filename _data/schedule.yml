@@ -22,6 +22,14 @@
   other:
     - <a href="{{ site.baseurl }}/slides/03_networking_primer.pdf">Slides</a>
 
+4:
+  reading:
+  topics:
+    - <b> Lab 1 </b> Sniffind and Spoofing Packets
+  materials: 
+  other: 
+    - <a href="{{ site.baseurl }}/labs/lab1">Lab instructions</a>
+
 # 3:
 #   reading:
 #   topics:

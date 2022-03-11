@@ -70,7 +70,15 @@ title: Class Schedule
 <tr>
 <td markdown="span">
 4 <br/> Fri, Mar 11 2022</td>
-<td markdown="span" colspan="3">N/A</td>
+<td markdown="span">
+</td>
+<td markdown="span" style="text-align:left">
+{::nomarkdown}<ul style="margin:0;padding:.5rem">
+<li> <b> Lab 1 </b> Sniffind and Spoofing Packets </li>
+</ul>{:/}
+</td>
+<td markdown="span">
+<a href="{{ site.baseurl }}/labs/lab1">Lab instructions</a></td>
 </tr>
 <tr>
 <td rowspan="5" markdown="span" style="font-size:xx-large;"><a name="w2">2</a></td>
@@ -84,8 +92,6 @@ title: Class Schedule
 <td markdown="span" colspan="3">N/A</td>
 </tr>
 <tr>
-<td markdown="span" colspan="4"> [Lab 1]({{ site.baseurl }}/labs/lab1) DUE Wed, Mar 16 2022 23:59 Submit to [Gradescope](https://www.gradescope.com/courses/375534)</td></tr>
-<tr>
 <td markdown="span">
 7 <br/> Thu, Mar 17 2022</td>
 <td markdown="span" colspan="3">N/A</td>
@@ -95,6 +101,8 @@ title: Class Schedule
 8 <br/> Fri, Mar 18 2022</td>
 <td markdown="span" colspan="3">N/A</td>
 </tr>
+<tr>
+<td markdown="span" colspan="4"> [Lab 1]({{ site.baseurl }}/labs/lab1) DUE Fri, Mar 18 2022 23:59 Submit to [Gradescope](https://www.gradescope.com/courses/375534)</td></tr>
 <tr>
 <td rowspan="4" markdown="span" style="font-size:xx-large;"><a name="w3">3</a></td>
 <td markdown="span">
