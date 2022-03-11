@@ -430,3 +430,29 @@ You do not need to worry about the `Redirect Host` packet, it might show up and
 it might not. You only care that the ping packet was replied to by the
 non-existent host and that now the victim is convinced that the host
 `10.1.1.129` exists on the local network. 
+
+# Submission Instructions
+
+In addition to your source code, for each part in this lab, submit a
+screenshot(s) showing successful implementation of the attack or utility in
+question. I ask for screenshots because the nature of DETER makes it almost
+impossible for me to regenerate your results unless you make them very modular,
+which is not very practical for this class. 
+
+Put your screenshots into a PDF file and then submit that to gradescope
+alongside your code. 
+
+## Video submission (Optional)
+
+If you would rather record a video showing successful exploitation, that is
+totally fine by me. Then please submit a PDF file containing a link to your
+video instead of a written report. 
+
+# Feedback
+
+I would really appreciate your feedback on this lab. Recall that this is the
+first time we offer this class and that we are trying to make it as good of an
+experience for you as possible. Therefore, I will solicit your feedback on every
+lab and I would highly appreciate if you can fill them out. You can find the
+feedback form at the following [link](https://forms.gle/2wKnXJXLotVPKv9LA). The
+form is completely anonymous.
