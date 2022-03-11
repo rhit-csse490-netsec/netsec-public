@@ -25,7 +25,7 @@
 4:
   reading:
   topics:
-    - <b> Lab 1 </b> Sniffind and Spoofing Packets
+    - <b> Lab 1 </b> Sniffing and Spoofing Packets
   materials: 
   other: 
     - <a href="{{ site.baseurl }}/labs/lab1">Lab instructions</a>

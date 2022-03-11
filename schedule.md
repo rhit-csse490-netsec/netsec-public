@@ -74,7 +74,7 @@ title: Class Schedule
 </td>
 <td markdown="span" style="text-align:left">
 {::nomarkdown}<ul style="margin:0;padding:.5rem">
-<li> <b> Lab 1 </b> Sniffind and Spoofing Packets </li>
+<li> <b> Lab 1 </b> Sniffing and Spoofing Packets </li>
 </ul>{:/}
 </td>
 <td markdown="span">
