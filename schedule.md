@@ -95,7 +95,7 @@ title: Class Schedule
 </ul>{:/}
 </td>
 <td markdown="span">
-</td>
+<a href="{{ site.baseurl }}/slides/05_layer2.pdf">Slides</a></td>
 </tr>
 <tr>
 <td markdown="span">

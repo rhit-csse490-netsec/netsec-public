@@ -37,6 +37,7 @@
     - Layer 2 attacks and defenses
   materials:
   other:
+    - <a href="{{ site.baseurl }}/slides/05_layer2.pdf">Slides</a>
 
 6:
   reading:
