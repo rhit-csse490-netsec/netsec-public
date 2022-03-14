@@ -230,6 +230,7 @@ exclude:
   - screenshot.png
   - vendor/
   - homeworks/
+  - captures/
 
 plugins:
   - jekyll-paginate
