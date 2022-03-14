@@ -84,12 +84,34 @@ title: Class Schedule
 <td rowspan="5" markdown="span" style="font-size:xx-large;"><a name="w2">2</a></td>
 <td markdown="span">
 5 <br/> Mon, Mar 14 2022</td>
-<td markdown="span" colspan="3">N/A</td>
+<td markdown="span" style="text-align:left">
+{::nomarkdown}<ul style="margin:0;padding:.5rem">
+<li> <a href="https://attack.mitre.org/techniques/T1557/002/"> MITRE ARP Cache Poisoning </a> </li>
+</ul>{:/}
+</td>
+<td markdown="span" style="text-align:left">
+{::nomarkdown}<ul style="margin:0;padding:.5rem">
+<li> Layer 2 attacks and defenses </li>
+</ul>{:/}
+</td>
+<td markdown="span">
+</td>
 </tr>
 <tr>
 <td markdown="span">
 6 <br/> Tue, Mar 15 2022</td>
-<td markdown="span" colspan="3">N/A</td>
+<td markdown="span" style="text-align:left">
+{::nomarkdown}<ul style="margin:0;padding:.5rem">
+<li> <a href="https://attack.mitre.org/techniques/T1557/002/"> MITRE ARP Cache Poisoning </a> </li>
+</ul>{:/}
+</td>
+<td markdown="span" style="text-align:left">
+{::nomarkdown}<ul style="margin:0;padding:.5rem">
+<li> Layer 2 attacks and defenses </li>
+</ul>{:/}
+</td>
+<td markdown="span">
+</td>
 </tr>
 <tr>
 <td markdown="span">
