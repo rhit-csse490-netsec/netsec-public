@@ -47,6 +47,14 @@
   materials:
   other:
 
+7:
+  reading:
+  topics:
+    - <b> Lab 1 </b> Sniffing and Spoofind Packets
+  materials:
+  other:
+    - <a href="{{ site.baseurl }}/labs/lab1">Lab instructions</a>
+
 # 5:
 #   reading:
 #   topics:

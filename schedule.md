@@ -116,7 +116,15 @@ title: Class Schedule
 <tr>
 <td markdown="span">
 7 <br/> Thu, Mar 17 2022</td>
-<td markdown="span" colspan="3">N/A</td>
+<td markdown="span">
+</td>
+<td markdown="span" style="text-align:left">
+{::nomarkdown}<ul style="margin:0;padding:.5rem">
+<li> <b> Lab 1 </b> Sniffing and Spoofind Packets </li>
+</ul>{:/}
+</td>
+<td markdown="span">
+<a href="{{ site.baseurl }}/labs/lab1">Lab instructions</a></td>
 </tr>
 <tr>
 <td markdown="span">
