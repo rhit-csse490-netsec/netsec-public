@@ -111,7 +111,7 @@ title: Class Schedule
 </ul>{:/}
 </td>
 <td markdown="span">
-</td>
+<a  href="{{ site.baseurl }}/slides/06_layer2.pdf">Slides</a></td>
 </tr>
 <tr>
 <td markdown="span">
@@ -120,7 +120,7 @@ title: Class Schedule
 </td>
 <td markdown="span" style="text-align:left">
 {::nomarkdown}<ul style="margin:0;padding:.5rem">
-<li> <b> Lab 1 </b> Sniffing and Spoofind Packets </li>
+<li> <b> Lab 1 </b> Sniffing and Spoofing Packets </li>
 </ul>{:/}
 </td>
 <td markdown="span">
@@ -129,7 +129,15 @@ title: Class Schedule
 <tr>
 <td markdown="span">
 8 <br/> Fri, Mar 18 2022</td>
-<td markdown="span" colspan="3">N/A</td>
+<td markdown="span">
+</td>
+<td markdown="span" style="text-align:left">
+{::nomarkdown}<ul style="margin:0;padding:.5rem">
+<li> Layer 3 Primer </li>
+</ul>{:/}
+</td>
+<td markdown="span">
+<a  href="{{ site.baseurl }}/slides/08_layer3.pdf">Slides</a></td>
 </tr>
 <tr>
 <td markdown="span" colspan="4"> [Lab 1]({{ site.baseurl }}/labs/lab1) DUE Fri, Mar 18 2022 23:59 Submit to [Gradescope](https://www.gradescope.com/courses/375534)</td></tr>

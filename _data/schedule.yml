@@ -46,14 +46,23 @@
     - Layer 2 attacks and defenses
   materials:
   other:
+    - <a  href="{{ site.baseurl }}/slides/06_layer2.pdf">Slides</a>
 
 7:
   reading:
   topics:
-    - <b> Lab 1 </b> Sniffing and Spoofind Packets
+    - <b> Lab 1 </b> Sniffing and Spoofing Packets
   materials:
   other:
     - <a href="{{ site.baseurl }}/labs/lab1">Lab instructions</a>
+
+8:
+  reading:
+  topics:
+    - Layer 3 Primer
+  materials:
+  other:
+    - <a  href="{{ site.baseurl }}/slides/08_layer3.pdf">Slides</a>
 
 # 5:
 #   reading:
