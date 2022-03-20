@@ -64,6 +64,23 @@
   other:
     - <a  href="{{ site.baseurl }}/slides/08_layer3.pdf">Slides</a>
 
+9:
+  reading:
+  topics:
+    - <b> Lab 2 </b> MITM attack using ARP cache poisoning 
+  materials:
+  other:
+    - <a href="{{ site.baseurl }}/labs/lab2">Lab instructions</a>
+
+10:
+  reading:
+    - <a href="https://www.imperva.com/learn/ddos/ip-fragmentation-attack-teardrop/"> IP fragmentation attack </a>
+  topics:
+    - IP fragmentation attacks
+  materials:
+  other:
+
+
 # 5:
 #   reading:
 #   topics:
