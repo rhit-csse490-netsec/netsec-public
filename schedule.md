@@ -142,7 +142,7 @@ title: Class Schedule
 <tr>
 <td markdown="span" colspan="4"> [Lab 1]({{ site.baseurl }}/labs/lab1) DUE Fri, Mar 18 2022 23:59 Submit to [Gradescope](https://www.gradescope.com/courses/375534)</td></tr>
 <tr>
-<td rowspan="4" markdown="span" style="font-size:xx-large;"><a name="w3">3</a></td>
+<td rowspan="5" markdown="span" style="font-size:xx-large;"><a name="w3">3</a></td>
 <td markdown="span">
 9 <br/> Mon, Mar 21 2022</td>
 <td markdown="span" colspan="3">N/A</td>
@@ -162,6 +162,8 @@ title: Class Schedule
 12 <br/> Fri, Mar 25 2022</td>
 <td markdown="span" colspan="3">N/A</td>
 </tr>
+<tr>
+<td markdown="span" colspan="4"> [Lab 2]({{ site.baseurl }}/labs/lab2) DUE Sun, Mar 27 2022 23:50 Submit to [Gradescope](https://www.gradescope.com/courses/375534)</td></tr>
 <tr>
 <td rowspan="4" markdown="span" style="font-size:xx-large;"><a name="w4">4</a></td>
 <td markdown="span">
