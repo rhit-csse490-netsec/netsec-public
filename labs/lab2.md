@@ -241,7 +241,9 @@ send(newpkt, iface='<interface_name>')
 Run your script on the attacker machine and test your code by starting a ping
 session from the victim to the client. The ping should be successful even though
 the ARP cache at both ends are poisoned; the attacker is acting as a router
-routing traffic from the victim to the client and vice versa. 
+routing traffic from the victim to the client and vice versa. Note that the ping
+packet will now take significantly longer (in terms of ms) but that is okay. We
+can speed this up by writing the code in C, but let's not do that now. 
 
 ## Step 3: Launching the MITM attack
 
