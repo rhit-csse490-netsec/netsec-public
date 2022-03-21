@@ -302,7 +302,7 @@ For example, if on the victim's machine, I type
 ```shell
 Hello this is Mohammad
 ```
-One the victim's end, this will show up as
+On the client's end, this will show up as
 ```shell
 Hello this is AAAAAAAA
 ```
@@ -332,3 +332,10 @@ experience for you as possible. Therefore, I will solicit your feedback on every
 lab and I would highly appreciate if you can fill them out. You can find the
 feedback form at the following [link](https://forms.gle/tnTYt2nY2LE4FHBe9). The
 form is completely anonymous.
+
+# Acknowledgments
+
+This lab is based on the SEED labs by Professor Wengliang Du and modified by
+Mohammad Noureddine. This work is licensed under a Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License. 
+
