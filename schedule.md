@@ -169,17 +169,36 @@ title: Class Schedule
 </ul>{:/}
 </td>
 <td markdown="span">
-</td>
+<a  href="{{ site.baseurl }}/slides/10_fragmentation.pdf">Slides</a></td>
 </tr>
 <tr>
 <td markdown="span">
 11 <br/> Thu, Mar 24 2022</td>
-<td markdown="span" colspan="3">N/A</td>
+<td markdown="span">
+</td>
+<td markdown="span" style="text-align:left">
+{::nomarkdown}<ul style="margin:0;padding:.5rem">
+<li> <b> Lab 2 </b> MITM attack using ARP cache poisoning </li>
+</ul>{:/}
+</td>
+<td markdown="span">
+<a href="{{ site.baseurl }}/labs/lab2">Lab instructions</a></td>
 </tr>
 <tr>
 <td markdown="span">
 12 <br/> Fri, Mar 25 2022</td>
-<td markdown="span" colspan="3">N/A</td>
+<td markdown="span" style="text-align:left">
+{::nomarkdown}<ul style="margin:0;padding:.5rem">
+<li> <a href="https://datatracker.ietf.org/doc/html/rfc8704"> RFC 8704 </a> </li>
+</ul>{:/}
+</td>
+<td markdown="span" style="text-align:left">
+{::nomarkdown}<ul style="margin:0;padding:.5rem">
+<li> Routing and ICMP </li>
+</ul>{:/}
+</td>
+<td markdown="span">
+<a href="{{ site.baseurl }}/slides/11_routing.pdf">Slides</a></td>
 </tr>
 <tr>
 <td markdown="span" colspan="4"> [Lab 2]({{ site.baseurl }}/labs/lab2) DUE Sun, Mar 27 2022 23:50 Submit to [Gradescope](https://www.gradescope.com/courses/375534)</td></tr>

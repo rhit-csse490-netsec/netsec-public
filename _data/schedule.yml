@@ -79,6 +79,24 @@
     - IP fragmentation attacks
   materials:
   other:
+    - <a  href="{{ site.baseurl }}/slides/10_fragmentation.pdf">Slides</a>
+
+11:
+  reading:
+  topics:
+    - <b> Lab 2 </b> MITM attack using ARP cache poisoning 
+  materials:
+  other:
+    - <a href="{{ site.baseurl }}/labs/lab2">Lab instructions</a>
+
+12:
+  reading:
+    - <a href="https://datatracker.ietf.org/doc/html/rfc8704"> RFC 8704 </a>
+  topics:
+    - Routing and ICMP
+  materials:
+  other:
+    - <a href="{{ site.baseurl }}/slides/11_routing.pdf">Slides</a>
 
 
 # 5:
