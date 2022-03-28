@@ -98,6 +98,12 @@
   other:
     - <a href="{{ site.baseurl }}/slides/11_routing.pdf">Slides</a>
 
+13:
+  reading:
+  topics:
+    - <b> Lab 3 </b> MITM attack using ICMP redirect packets
+  materials:
+  other:
 
 # 5:
 #   reading:

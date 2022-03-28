@@ -206,7 +206,15 @@ title: Class Schedule
 <td rowspan="4" markdown="span" style="font-size:xx-large;"><a name="w4">4</a></td>
 <td markdown="span">
 13 <br/> Mon, Mar 28 2022</td>
-<td markdown="span" colspan="3">N/A</td>
+<td markdown="span">
+</td>
+<td markdown="span" style="text-align:left">
+{::nomarkdown}<ul style="margin:0;padding:.5rem">
+<li> <b> Lab 3 </b> MITM attack using ICMP redirect packets </li>
+</ul>{:/}
+</td>
+<td markdown="span">
+</td>
 </tr>
 <tr>
 <td markdown="span">
