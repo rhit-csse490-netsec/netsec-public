@@ -201,9 +201,9 @@ title: Class Schedule
 <a href="{{ site.baseurl }}/slides/11_routing.pdf">Slides</a></td>
 </tr>
 <tr>
-<td markdown="span" colspan="4"> [Lab 2]({{ site.baseurl }}/labs/lab2) DUE Sun, Mar 27 2022 23:50 Submit to [Gradescope](https://www.gradescope.com/courses/375534)</td></tr>
+<td markdown="span" colspan="4"> [Lab 2]({{ site.baseurl }}/labs/lab2) DUE Sun, Mar 27 2022 23:59 Submit to [Gradescope](https://www.gradescope.com/courses/375534)</td></tr>
 <tr>
-<td rowspan="4" markdown="span" style="font-size:xx-large;"><a name="w4">4</a></td>
+<td rowspan="5" markdown="span" style="font-size:xx-large;"><a name="w4">4</a></td>
 <td markdown="span">
 13 <br/> Mon, Mar 28 2022</td>
 <td markdown="span">
@@ -214,7 +214,7 @@ title: Class Schedule
 </ul>{:/}
 </td>
 <td markdown="span">
-</td>
+<a href="{{ site.baseurl }}/labs/lab3">Lab instructions</a></td>
 </tr>
 <tr>
 <td markdown="span">
@@ -231,6 +231,8 @@ title: Class Schedule
 16 <br/> Fri, Apr 01 2022</td>
 <td markdown="span" colspan="3">N/A</td>
 </tr>
+<tr>
+<td markdown="span" colspan="4"> [Lab 3]({{ site.baseurl }}/labs/lab3) DUE Sun, Apr 03 2022 23:59 Submit to [Gradescope](https://www.gradescope.com/courses/375534)</td></tr>
 <tr>
 <td rowspan="4" markdown="span" style="font-size:xx-large;"><a name="w5">5</a></td>
 <td markdown="span">

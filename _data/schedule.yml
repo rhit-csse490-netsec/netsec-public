@@ -104,6 +104,7 @@
     - <b> Lab 3 </b> MITM attack using ICMP redirect packets
   materials:
   other:
+    - <a href="{{ site.baseurl }}/labs/lab3">Lab instructions</a>
 
 # 5:
 #   reading:
