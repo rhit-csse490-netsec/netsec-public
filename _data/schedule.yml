@@ -106,6 +106,15 @@
   other:
     - <a href="{{ site.baseurl }}/labs/lab3">Lab instructions</a>
 
+14:
+  reading:
+  topics:
+    - ICMP wrap up
+    - The transport layer
+  materials:
+  other:
+    - <a href="{{ site.baseurl }}/slides/14_transport.pdf">Slides</a>
+
 # 5:
 #   reading:
 #   topics:
