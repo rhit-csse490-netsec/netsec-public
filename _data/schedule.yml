@@ -115,6 +115,23 @@
   other:
     - <a href="{{ site.baseurl }}/slides/14_transport.pdf">Slides</a>
 
+15:
+  reading:
+  topics:
+    - TCP vs. UDP
+    - UDP attacks
+  materials:
+  other:
+    - <a href="{{ site.baseurl }}/slides/15_udp.pdf">Slides</a>
+
+16:
+  reading:
+  topics:
+    - <b> Lab 3 </b> MITM attack using ICMP redirect packets
+  materials:
+  other:
+    - <a href="{{ site.baseurl }}/labs/lab3">Lab instructions</a>
+
 # 5:
 #   reading:
 #   topics:
