@@ -132,6 +132,36 @@
   other:
     - <a href="{{ site.baseurl }}/labs/lab3">Lab instructions</a>
 
+17:
+  reading:
+    - <a href="https://www.perform.illinois.edu/Papers/USAN_papers/18NOU01.pdf">
+      Revisiting Client Puzzles for State Exhaustion Attacks Resilience </a>
+  topics:
+    - TCP State-Exhaustion Attacks & Defenses
+  materials:
+  other:
+
+18:
+  reading:
+  topics:
+    - TCP Session Hijacking
+  materials:
+  other:
+
+19:
+  reading:
+  topics:
+    - Project Launch Day
+  materials:
+  other:
+
+20:
+  reading:
+  topics:
+    - No Class. Enjoy the break!
+  materials:
+  other:
+
 # 5:
 #   reading:
 #   topics:
