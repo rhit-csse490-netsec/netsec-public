@@ -266,6 +266,7 @@ title: Class Schedule
 <td markdown="span" style="text-align:left">
 {::nomarkdown}<ul style="margin:0;padding:.5rem">
 <li> <a href="https://www.perform.illinois.edu/Papers/USAN_papers/18NOU01.pdf"> Revisiting Client Puzzles for State Exhaustion Attacks Resilience </a> </li>
+<li> <a href="https://dl.acm.org/doi/pdf/10.1145/1402958.1402981"> To Filter or to Authorize. </a> </li>
 </ul>{:/}
 </td>
 <td markdown="span" style="text-align:left">
@@ -274,7 +275,7 @@ title: Class Schedule
 </ul>{:/}
 </td>
 <td markdown="span">
-</td>
+<a href="{{ site.baseurl }}/slides/17_tcp.pdf">Slides</a></td>
 </tr>
 <tr>
 <td markdown="span">
