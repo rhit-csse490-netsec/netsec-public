@@ -222,7 +222,7 @@ services (netcat or telnet) and not both, unless you really want to.
 
 # Acknowledgments
 
-This lab is based on the SEED labs by Professor Wengliang Du and modified by
+This lab is based on the SEED labs by Professor Wenliang Du and modified by
 Mohammad Noureddine. This work is licensed under a [Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0 International
 License](https://creativecommons.org/licenses/by-nc-sa/4.0/). 

@@ -301,7 +301,7 @@ title: Class Schedule
 </ul>{:/}
 </td>
 <td markdown="span">
-</td>
+<a href="{{ site.baseurl }}/project/desc">Project Description</a></td>
 </tr>
 <tr>
 <td markdown="span">

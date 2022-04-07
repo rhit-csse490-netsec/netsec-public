@@ -157,6 +157,7 @@
     - Project Launch Day
   materials:
   other:
+    - <a href="{{ site.baseurl }}/project/desc">Project Description</a>
 
 20:
   reading:

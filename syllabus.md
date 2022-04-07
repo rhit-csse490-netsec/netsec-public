@@ -124,12 +124,12 @@ are publicly available.
 <!-- TODO: Add an image of the textbook here! -->
 
 However, there must be a resource that shines away from the competition; in this
-case, it is "Internet Security: A Hands-on Approach" by Wengliang Du. This is a
+case, it is "Internet Security: A Hands-on Approach" by Wenliang Du. This is a
 great textbook that covers most of what we will go through in this class in a
 way that covers both theory and practice, so I recommend that you purchase a
 copy of this book and keep it with you for later-on reference in your career.
 
-> [Du, Wengliang, "Internet Security: A Hands-on Approach", 2nd Edition,
+> [Du, Wenliang, "Internet Security: A Hands-on Approach", 2nd Edition,
   2019](https://www.amazon.com/gp/product/1733003916?ref=ppx_pt2_dt_b_prod_image)
 
 
