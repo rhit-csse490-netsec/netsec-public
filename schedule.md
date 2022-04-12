@@ -317,7 +317,7 @@ title: Class Schedule
 </td>
 </tr>
 <tr>
-<td rowspan="4" markdown="span" style="font-size:xx-large;"><a name="w6">6</a></td>
+<td rowspan="5" markdown="span" style="font-size:xx-large;"><a name="w6">6</a></td>
 <td markdown="span">
 21 <br/> Mon, Apr 18 2022</td>
 <td markdown="span" colspan="3">N/A</td>
@@ -337,6 +337,8 @@ title: Class Schedule
 24 <br/> Fri, Apr 22 2022</td>
 <td markdown="span" colspan="3">N/A</td>
 </tr>
+<tr>
+<td markdown="span" colspan="4"> [Milestone 1]({{ site.baseurl }}/project/milestone1) DUE Fri, Apr 22 2022 23:59 Submit to [Gradescope](https://www.gradescope.com/courses/375534)</td></tr>
 <tr>
 <td rowspan="4" markdown="span" style="font-size:xx-large;"><a name="w7">7</a></td>
 <td markdown="span">
