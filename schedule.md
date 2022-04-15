@@ -346,9 +346,15 @@ title: Class Schedule
 <tr>
 <td markdown="span">
 23 <br/> Thu, Apr 21 2022</td>
-<td markdown="span">
+<td markdown="span" style="text-align:left">
+{::nomarkdown}<ul style="margin:0;padding:.5rem">
+<li> <a href="https://docs.google.com/spreadsheets/d/196wQ3OmEjmpPD1ZWfXy4eMkzGircS3YJCduVlccLzZc/edit?usp=sharing"> Link to topic selection sheet </a> </li>
+</ul>{:/}
 </td>
-<td markdown="span">
+<td markdown="span" style="text-align:left">
+{::nomarkdown}<ul style="margin:0;padding:.5rem">
+<li> Theodore and Jonas present </li>
+</ul>{:/}
 </td>
 <td markdown="span">
 </td>
@@ -358,7 +364,10 @@ title: Class Schedule
 24 <br/> Fri, Apr 22 2022</td>
 <td markdown="span">
 </td>
-<td markdown="span">
+<td markdown="span" style="text-align:left">
+{::nomarkdown}<ul style="margin:0;padding:.5rem">
+<li> Samuel V. and Arudrra present </li>
+</ul>{:/}
 </td>
 <td markdown="span">
 </td>
