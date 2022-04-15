@@ -284,11 +284,11 @@ title: Class Schedule
 </td>
 <td markdown="span" style="text-align:left">
 {::nomarkdown}<ul style="margin:0;padding:.5rem">
-<li> TCP Session Hijacking </li>
+<li> TCP Client Puzzles </li>
 </ul>{:/}
 </td>
 <td markdown="span">
-</td>
+<a href="{{ site.baseurl }}/slides/18_moretcp.pdf">Slides</a></td>
 </tr>
 <tr>
 <td markdown="span">
@@ -320,22 +320,48 @@ title: Class Schedule
 <td rowspan="5" markdown="span" style="font-size:xx-large;"><a name="w6">6</a></td>
 <td markdown="span">
 21 <br/> Mon, Apr 18 2022</td>
-<td markdown="span" colspan="3">N/A</td>
+<td markdown="span">
+</td>
+<td markdown="span" style="text-align:left">
+{::nomarkdown}<ul style="margin:0;padding:.5rem">
+<li> TCP Session Hijacking </li>
+</ul>{:/}
+</td>
+<td markdown="span">
+</td>
 </tr>
 <tr>
 <td markdown="span">
 22 <br/> Tue, Apr 19 2022</td>
-<td markdown="span" colspan="3">N/A</td>
+<td markdown="span">
+</td>
+<td markdown="span" style="text-align:left">
+{::nomarkdown}<ul style="margin:0;padding:.5rem">
+<li> The Mitnick Attack </li>
+</ul>{:/}
+</td>
+<td markdown="span">
+</td>
 </tr>
 <tr>
 <td markdown="span">
 23 <br/> Thu, Apr 21 2022</td>
-<td markdown="span" colspan="3">N/A</td>
+<td markdown="span">
+</td>
+<td markdown="span">
+</td>
+<td markdown="span">
+</td>
 </tr>
 <tr>
 <td markdown="span">
 24 <br/> Fri, Apr 22 2022</td>
-<td markdown="span" colspan="3">N/A</td>
+<td markdown="span">
+</td>
+<td markdown="span">
+</td>
+<td markdown="span">
+</td>
 </tr>
 <tr>
 <td markdown="span" colspan="4"> [Milestone 1]({{ site.baseurl }}/project/milestone1) DUE Fri, Apr 22 2022 23:59 Submit to [Gradescope](https://www.gradescope.com/courses/375534)</td></tr>
