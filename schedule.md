@@ -324,7 +324,7 @@ title: Class Schedule
 </td>
 <td markdown="span" style="text-align:left">
 {::nomarkdown}<ul style="margin:0;padding:.5rem">
-<li> TCP Session Hijacking </li>
+<li> Project Work Time </li>
 </ul>{:/}
 </td>
 <td markdown="span">
@@ -337,7 +337,7 @@ title: Class Schedule
 </td>
 <td markdown="span" style="text-align:left">
 {::nomarkdown}<ul style="margin:0;padding:.5rem">
-<li> The Mitnick Attack </li>
+<li> No class -- Mohammad was sick </li>
 </ul>{:/}
 </td>
 <td markdown="span">
@@ -366,7 +366,7 @@ title: Class Schedule
 </td>
 <td markdown="span" style="text-align:left">
 {::nomarkdown}<ul style="margin:0;padding:.5rem">
-<li> Samuel V. and Arudrra present </li>
+<li> TCP Session Hijacking </li>
 </ul>{:/}
 </td>
 <td markdown="span">
