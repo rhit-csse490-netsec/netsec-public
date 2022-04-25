@@ -195,7 +195,36 @@
     - TCP Session Hijacking
   materials:
   other:
+    - <a href="{{ site.baseurl }}/slides/22_tcp_hijacking.pdf">Slides</a>
 
+25:
+  reading:
+  topics:
+    - Reverse Shell
+  materials:
+  other:
+    - <a href="{{ site.baseurl }}/slides/25_reverse_shell.pdf">Slides</a>
+
+26:
+  reading:
+  topics:
+    - The Mitnick Attack
+  materials:
+  other:
+
+27:
+  reading:
+    - <a href="https://docs.google.com/spreadsheets/d/196wQ3OmEjmpPD1ZWfXy4eMkzGircS3YJCduVlccLzZc/edit?usp=sharing"> Link to topic selection sheet </a>
+  topics:
+    - Owen and Aditya Present
+  materials:
+  other:
+
+28:
+  reading:
+  topics:
+  materials:
+  other:
 
 # 5:
 #   reading:
