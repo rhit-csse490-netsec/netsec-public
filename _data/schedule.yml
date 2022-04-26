@@ -211,8 +211,16 @@
     - The Mitnick Attack
   materials:
   other:
+    - <a href="{{ site.baseurl }}/slides/25_reverse_shell.pdf">Slides</a>
 
 27:
+  reading:
+  topics:
+    - Virtual Private Network
+  materials:
+  other:
+
+28:
   reading:
     - <a href="https://docs.google.com/spreadsheets/d/196wQ3OmEjmpPD1ZWfXy4eMkzGircS3YJCduVlccLzZc/edit?usp=sharing"> Link to topic selection sheet </a>
   topics:
@@ -220,11 +228,6 @@
   materials:
   other:
 
-28:
-  reading:
-  topics:
-  materials:
-  other:
 
 # 5:
 #   reading:

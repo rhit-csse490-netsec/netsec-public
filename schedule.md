@@ -399,11 +399,24 @@ title: Class Schedule
 </ul>{:/}
 </td>
 <td markdown="span">
-</td>
+<a href="{{ site.baseurl }}/slides/25_reverse_shell.pdf">Slides</a></td>
 </tr>
 <tr>
 <td markdown="span">
 27 <br/> Thu, Apr 28 2022</td>
+<td markdown="span">
+</td>
+<td markdown="span" style="text-align:left">
+{::nomarkdown}<ul style="margin:0;padding:.5rem">
+<li> Virtual Private Network </li>
+</ul>{:/}
+</td>
+<td markdown="span">
+</td>
+</tr>
+<tr>
+<td markdown="span">
+28 <br/> Fri, Apr 29 2022</td>
 <td markdown="span" style="text-align:left">
 {::nomarkdown}<ul style="margin:0;padding:.5rem">
 <li> <a href="https://docs.google.com/spreadsheets/d/196wQ3OmEjmpPD1ZWfXy4eMkzGircS3YJCduVlccLzZc/edit?usp=sharing"> Link to topic selection sheet </a> </li>
@@ -413,16 +426,6 @@ title: Class Schedule
 {::nomarkdown}<ul style="margin:0;padding:.5rem">
 <li> Owen and Aditya Present </li>
 </ul>{:/}
-</td>
-<td markdown="span">
-</td>
-</tr>
-<tr>
-<td markdown="span">
-28 <br/> Fri, Apr 29 2022</td>
-<td markdown="span">
-</td>
-<td markdown="span">
 </td>
 <td markdown="span">
 </td>
