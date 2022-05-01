@@ -219,6 +219,7 @@
     - Virtual Private Network
   materials:
   other:
+    - <a href="{{ site.baseurl }}/slides/27_vpn_i.pdf">Slides</a>
 
 28:
   reading:
@@ -228,6 +229,35 @@
   materials:
   other:
 
+29:
+  reading:
+  topics:
+    - Virtual Private Network II
+  materials:
+  other:
+
+30:
+  reading:
+  topics:
+    - Transport Layer Security (TLS)
+  materials:
+  other:
+
+31:
+  reading:
+    - <a href="https://docs.google.com/spreadsheets/d/196wQ3OmEjmpPD1ZWfXy4eMkzGircS3YJCduVlccLzZc/edit?usp=sharing"> Link to topic selection sheet </a>
+  topics:
+    - Josh and William Present 
+  materials:
+  other:
+
+32:
+  reading:
+    - <a href="https://docs.google.com/spreadsheets/d/196wQ3OmEjmpPD1ZWfXy4eMkzGircS3YJCduVlccLzZc/edit?usp=sharing"> Link to topic selection sheet </a>
+  topics:
+    - Abhinav and Andrew Present
+  materials:
+  other:
 
 # 5:
 #   reading:
