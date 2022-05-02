@@ -431,7 +431,7 @@ title: Class Schedule
 </td>
 </tr>
 <tr>
-<td rowspan="4" markdown="span" style="font-size:xx-large;"><a name="w8">8</a></td>
+<td rowspan="5" markdown="span" style="font-size:xx-large;"><a name="w8">8</a></td>
 <td markdown="span">
 29 <br/> Mon, May 02 2022</td>
 <td markdown="span">
@@ -489,6 +489,8 @@ title: Class Schedule
 <td markdown="span">
 </td>
 </tr>
+<tr>
+<td markdown="span" colspan="4"> [Lab 4a]({{ site.baseurl }}/labs/lab4) DUE Sun, May 08 2022 23:59 Submit to [Gradescope](https://www.gradescope.com/courses/375534)</td></tr>
 <tr>
 <td rowspan="4" markdown="span" style="font-size:xx-large;"><a name="w9">9</a></td>
 <td markdown="span">
