@@ -442,7 +442,7 @@ title: Class Schedule
 </ul>{:/}
 </td>
 <td markdown="span">
-</td>
+<a href="{{ site.baseurl }}/slides/29_vpn_ii.pdf">Slides</a></td>
 </tr>
 <tr>
 <td markdown="span">
@@ -451,11 +451,12 @@ title: Class Schedule
 </td>
 <td markdown="span" style="text-align:left">
 {::nomarkdown}<ul style="margin:0;padding:.5rem">
-<li> Transport Layer Security (TLS) </li>
+<li> Public Key Cryptography </li>
+<li> Diffie-Hellman Key Exchange </li>
 </ul>{:/}
 </td>
 <td markdown="span">
-</td>
+<a href="{{ site.baseurl }}/slides/30_public_key_encryption.pdf">Slides</a></td>
 </tr>
 <tr>
 <td markdown="span">
@@ -495,22 +496,61 @@ title: Class Schedule
 <td rowspan="4" markdown="span" style="font-size:xx-large;"><a name="w9">9</a></td>
 <td markdown="span">
 33 <br/> Mon, May 09 2022</td>
-<td markdown="span" colspan="3">N/A</td>
+<td markdown="span">
+</td>
+<td markdown="span" style="text-align:left">
+{::nomarkdown}<ul style="margin:0;padding:.5rem">
+<li> Lab Day </li>
+</ul>{:/}
+</td>
+<td markdown="span">
+</td>
 </tr>
 <tr>
 <td markdown="span">
 34 <br/> Tue, May 10 2022</td>
-<td markdown="span" colspan="3">N/A</td>
+<td markdown="span">
+</td>
+<td markdown="span" style="text-align:left">
+{::nomarkdown}<ul style="margin:0;padding:.5rem">
+<li> RSA </li>
+<li> Applications of PKC </li>
+</ul>{:/}
+</td>
+<td markdown="span">
+</td>
 </tr>
 <tr>
 <td markdown="span">
 35 <br/> Thu, May 12 2022</td>
-<td markdown="span" colspan="3">N/A</td>
+<td markdown="span" style="text-align:left">
+{::nomarkdown}<ul style="margin:0;padding:.5rem">
+<li> <a href="https://docs.google.com/spreadsheets/d/196wQ3OmEjmpPD1ZWfXy4eMkzGircS3YJCduVlccLzZc/edit?usp=sharing"> Link to topic selection sheet </a> </li>
+</ul>{:/}
+</td>
+<td markdown="span" style="text-align:left">
+{::nomarkdown}<ul style="margin:0;padding:.5rem">
+<li> Yifan and Abi Present </li>
+</ul>{:/}
+</td>
+<td markdown="span">
+</td>
 </tr>
 <tr>
 <td markdown="span">
 36 <br/> Fri, May 13 2022</td>
-<td markdown="span" colspan="3">N/A</td>
+<td markdown="span" style="text-align:left">
+{::nomarkdown}<ul style="margin:0;padding:.5rem">
+<li> <a href="https://docs.google.com/spreadsheets/d/196wQ3OmEjmpPD1ZWfXy4eMkzGircS3YJCduVlccLzZc/edit?usp=sharing"> Link to topic selection sheet </a> </li>
+</ul>{:/}
+</td>
+<td markdown="span" style="text-align:left">
+{::nomarkdown}<ul style="margin:0;padding:.5rem">
+<li> Seth and Samuel Present </li>
+</ul>{:/}
+</td>
+<td markdown="span">
+</td>
 </tr>
 <tr>
 <td rowspan="4" markdown="span" style="font-size:xx-large;"><a name="w10">10</a></td>

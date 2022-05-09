@@ -235,13 +235,16 @@
     - Virtual Private Network II
   materials:
   other:
+    - <a href="{{ site.baseurl }}/slides/29_vpn_ii.pdf">Slides</a>
 
 30:
   reading:
   topics:
-    - Transport Layer Security (TLS)
+    - Public Key Cryptography
+    - Diffie-Hellman Key Exchange
   materials:
   other:
+    - <a href="{{ site.baseurl }}/slides/30_public_key_encryption.pdf">Slides</a>
 
 31:
   reading:
@@ -256,6 +259,37 @@
     - <a href="https://docs.google.com/spreadsheets/d/196wQ3OmEjmpPD1ZWfXy4eMkzGircS3YJCduVlccLzZc/edit?usp=sharing"> Link to topic selection sheet </a>
   topics:
     - Abhinav and Andrew Present
+  materials:
+  other:
+
+33:
+  reading:
+  topics:
+    - Lab Day
+  materials:
+  other:
+
+34:
+  reading:
+  topics:
+    - RSA
+    - Applications of PKC
+  materials:
+  other:
+
+35:
+  reading:
+    - <a href="https://docs.google.com/spreadsheets/d/196wQ3OmEjmpPD1ZWfXy4eMkzGircS3YJCduVlccLzZc/edit?usp=sharing"> Link to topic selection sheet </a>
+  topics:
+    - Yifan and Abi Present
+  materials:
+  other:
+
+36:
+  reading:
+    - <a href="https://docs.google.com/spreadsheets/d/196wQ3OmEjmpPD1ZWfXy4eMkzGircS3YJCduVlccLzZc/edit?usp=sharing"> Link to topic selection sheet </a>
+  topics:
+    - Seth and Samuel Present
   materials:
   other:
 
