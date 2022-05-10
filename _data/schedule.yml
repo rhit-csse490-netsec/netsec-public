@@ -276,6 +276,8 @@
     - Applications of PKC
   materials:
   other:
+    - <a href="{{ site.baseurl }}/slides/32_RSA.pdf">Slides</a>
+
 
 35:
   reading:
