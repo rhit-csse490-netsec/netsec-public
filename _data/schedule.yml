@@ -295,6 +295,34 @@
   materials:
   other:
 
+37:
+  reading:
+  topics:
+    - Public Key Infrastructure
+  materials:
+  other:
+
+38:
+  reading:
+  topics:
+    - Transport Layer Security (TLS)
+  materials:
+  other:
+
+39:
+  reading:
+    - <a href="https://docs.google.com/spreadsheets/d/196wQ3OmEjmpPD1ZWfXy4eMkzGircS3YJCduVlccLzZc/edit?usp=sharing"> Link to topic selection sheet </a>
+  topics:
+    - Arudrra Presenting
+  materials:
+  other:
+
+40:
+  reading:
+  topics:
+    - Onion Routing
+  materials:
+  other:
 # 5:
 #   reading:
 #   topics:
