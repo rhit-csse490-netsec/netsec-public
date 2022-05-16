@@ -23,7 +23,30 @@ This lab covers the following topics:
 - TUN/TAP Interfaces
 - IP Tunneling
 
-# Network Topology
+# The network topology
+
+In this lab, we will be using the following network topology. It is composed of
+three machines:
+1. A `useru` machine that will serve as your VPN client. 
+2. A `server` machine that will act as your VPN server. 
+3. Two machines, `userv` and `userw` that are on a private network.
+Our goal is to establish a private connection between `useru` and `userv`. 
+
+![network topology]({{ site.baseurl }}/figs/lab5topo.png)
+
+
+## Creating a new experiment
+
+For this lab, we will create a new experiment, this time call it `<userid>-lab5`
+and under the `Your NS file` entry, enter the following under the `On Server`
+path:
+```
+/proj/csse490/labs/lab5.tcl
+```
+
+Hit `Submit` and then swap your experiment in, it should take about 10 minutes
+for this one to finish the swap in. If it takes you longer than that, please
+reach to your instructor to take a look. 
 
 # Step 0: Verify the topology
 
