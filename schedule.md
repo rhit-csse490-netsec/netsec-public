@@ -555,7 +555,7 @@ title: Class Schedule
 <tr>
 <td markdown="span" colspan="4"> [Milestone 2]({{ site.baseurl }}/project/milestone2) DUE Sun, May 15 2022 23:59 Submit to [Gradescope](https://www.gradescope.com/courses/375534)</td></tr>
 <tr>
-<td rowspan="5" markdown="span" style="font-size:xx-large;"><a name="w10">10</a></td>
+<td rowspan="6" markdown="span" style="font-size:xx-large;"><a name="w10">10</a></td>
 <td markdown="span">
 37 <br/> Mon, May 16 2022</td>
 <td markdown="span">
@@ -612,5 +612,7 @@ title: Class Schedule
 </tr>
 <tr>
 <td markdown="span" colspan="4"> [Lab 5]({{ site.baseurl }}/labs/lab5) DUE Sat, May 21 2022 23:59 Submit to [Gradescope](https://www.gradescope.com/courses/375534)</td></tr>
+<tr>
+<td markdown="span" colspan="4"> [Milestone 3]({{ site.baseurl }}/project/milestone3) DUE Sun, May 22 2022 17:00 Submit to [Gradescope](https://www.gradescope.com/courses/375534)</td></tr>
 </tbody>
 </table>
