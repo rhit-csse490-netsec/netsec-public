@@ -231,6 +231,7 @@ exclude:
   - vendor/
   - homeworks/
   - captures/
+  - demos/
 
 plugins:
   - jekyll-paginate
